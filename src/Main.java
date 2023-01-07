@@ -6,7 +6,7 @@ public class Main {
         int min = 1;
         int max = 49;
         int slots = 6;
-
+        // all elements are initialized to be zeros
         int[] lotteryArray = new int[slots];
     }
 }
