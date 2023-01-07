@@ -6,5 +6,7 @@ public class Main {
         int min = 1;
         int max = 49;
         int slots = 6;
+
+        int[] lotteryArray = new int[slots];
     }
 }
